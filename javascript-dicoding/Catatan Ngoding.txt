@@ -1,0 +1,16 @@
+=    menginisialisasikan datanya ke variable
+==   membandingkan 2 data tanpa tipe datanya
+===  membandingkan 2 data dan tipe datanya	
+
+> Tipe Data : Undifined, Number, BigInt : n, Null, Boolean,
+> Operator {
+
+x += y artinya x = x + y
+
+}
+
+if   ?
+else :
+
+.map(value , index)
+.reduce(accumulator , currentValue)
